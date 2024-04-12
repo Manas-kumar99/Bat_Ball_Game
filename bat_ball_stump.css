@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+button{
+    height: 100px;
+    width: 100px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+
+    
+}
+.choice-image{
+    height: 80px;
+}
+
